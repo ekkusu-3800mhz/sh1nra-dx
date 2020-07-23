@@ -7,7 +7,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">
   <ul>
-    <li>🌱 Ungraduate from SCAU College of Horticulture.</li>
+    <li>🌱 An ungraduate from SCAU College of Horticulture.</li>
     <li>🖥 Minister of SCAU Hometown Workshop Application Dept., studying full stack development.</li>
     <li>🚅 A high-speed railway & metro rapid transit lover.</li>
     <li>📸 An amateurish photographer & vlogger. Member of U.T.P.</li>
