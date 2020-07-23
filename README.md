@@ -34,11 +34,17 @@
   <img src="https://img.shields.io/badge/-Laravel-000000?logo=laravel" alt="Laravel"> 
   <img src="https://img.shields.io/badge/-Wechat Miniapp-0fc15f?logo=wechat&logoColor=white" alt="Wechat Miniapp">
   <br>
+  <img src="https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white" alt="Docker"> 
+  <img src="https://img.shields.io/badge/-MySQL-4479a1?logo=MySQL&logoColor=white" alt="MySQL"> 
+  <img src="https://img.shields.io/badge/-Redis-dc382d?logo=Redis&logoColor=white" alt="Redis"> 
   <img src="https://img.shields.io/badge/-Intellij Idea-000000?logo=Intellij%20Idea&logoColor=white" alt="Intellij Idea"> 
   <img src="https://img.shields.io/badge/-Visual Studio Code-007acc?logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"> 
   <img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white" alt="Git"> 
   <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" alt="GitHub"> 
   <img src="https://img.shields.io/badge/-GitLab-553d7b?logo=gitlab" alt="GitLab">
+  <img src="https://img.shields.io/badge/-Ubuntu-e95420?logo=Ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-Debian-a81d33?logo=Debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/-Windows-0078d6?logo=Windows&logoColor=white" alt="Windows">
 </p>
 <!--
 **hayamido/hayamido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
