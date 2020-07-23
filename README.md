@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- REFERER LINK
+<!-- REF
 https://github.com/NachtgeistW/NachtgeistW
 https://github.com/hritik5102/hritik5102
 -->
