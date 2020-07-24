@@ -1,5 +1,6 @@
 <h2 align="center">👋 Hi there! I'm Hayao Midoriya.</h2>
 <p align="center">
+  <a href="https://hayamido.moe" target="_blank">Blog</a> ·
   <a href="https://t.me/hayao_midoriya" target="_blank">Telegram</a> ·
   <a href="https://www.facebook.com/hayao.midoriya" target="_blank">Facebook</a> ·
   <a href="https://twitter.com/hayao_midoriya" target="_blank">Twitter</a>
