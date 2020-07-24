@@ -11,7 +11,7 @@
     <li>🖥 Minister of South China Agricultrual University Hometown Workshop Application Dept., studying full stack development.</li>
     <li>🚅 A high-speed railway & metro rapid transit lover.</li>
     <li>📸 An amateurish photographer & vlogger. Member of U.T.P.</li>
-    <li>🏃 An Ingress Resistance, locate in AS13-MIKE-03 & AS13-NOVEMBER-01. Member of Greater Canton Resistance.</li>
+    <li>🏃 An Ingress Resistance, locate at AS13-MIKE-03 & AS13-NOVEMBER-01. Member of Greater Canton Resistance.</li>
     <li>🕹 A MUGer, mainly playing maimai DX. A beginner of Cytus II & SDVX.</li>
     <li>📚 Like anime & comic.</li>
   </ul>
