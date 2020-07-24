@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript" alt="JavaScript"> 
   <img src="https://img.shields.io/badge/-HTML5-e44d25?logo=html5&logoColor=white" alt="HTML5"> 
   <img src="https://img.shields.io/badge/-CSS3-2747eb?logo=css3&logoColor=white" alt="CSS3">
-  <br>
   <img src="https://img.shields.io/badge/-Node.js-000000?logo=node.js" alt="Node.js"> 
   <img src="https://img.shields.io/badge/-Vue.js-000000?logo=vue.js" alt="Vue.js"> 
   <img src="https://img.shields.io/badge/-Bootstrap-553d7b?logo=bootstrap&logoColor=white" alt="Bootstrap"> 
@@ -41,6 +40,7 @@
   <img src="https://img.shields.io/badge/-Redis-dc382d?logo=Redis&logoColor=white" alt="Redis"> 
   <img src="https://img.shields.io/badge/-Intellij Idea-000000?logo=Intellij%20Idea&logoColor=white" alt="Intellij Idea"> 
   <img src="https://img.shields.io/badge/-Visual Studio Code-007acc?logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"> 
+  <img src="https://img.shields.io/badge/-Wechat Web DevTools-0fc15f?logo=wechat&logoColor=white" alt="Wechat Web DevTools"> 
   <img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white" alt="Git"> 
   <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" alt="GitHub"> 
   <img src="https://img.shields.io/badge/-GitLab-553d7b?logo=gitlab" alt="GitLab">
