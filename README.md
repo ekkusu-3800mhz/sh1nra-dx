@@ -14,7 +14,7 @@
     <li>🚅 A high-speed railway & metro rapid transit lover.</li>
     <li>📸 An amateurish photographer & vlogger. Member of U.T.P.</li>
     <li>🏃 An Ingress Resistance, locate at AS13-NOVEMBER-01 && AS13-MIKE-03 && AS13-MIKE-14. Member of Greater Canton Resistance.</li>
-    <li>🕹 A MUGer, mainly playing maimai DX (7000+ Skill Rating). A beginner of Cytus II & SOUND VOLTEX.</li>
+    <li>🕹 A MUGer, mainly playing maimai DX (7000+ Skill Rating). A beginner of Cytus II, SOUND VOLTEX && WACCA.</li>
     <li>📚 Like anime & comic.</li>
   </ul>
 </p>
