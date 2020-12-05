@@ -19,7 +19,7 @@
   </ul>
 </p>
 <h3 align="left">Preferences, GitHub Stats & Activities</h3>
-<p align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/-PHP-8892bf?logo=php&logoColor=white" alt="PHP"> 
   <img src="https://img.shields.io/badge/-Java-e11e21?logo=java&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/-Python-000000?logo=python" alt="Python"> 
@@ -46,8 +46,8 @@
   <img src="https://img.shields.io/badge/-Ubuntu-e95420?logo=Ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-Debian-a81d33?logo=Debian&logoColor=white" alt="Debian">
   <img src="https://img.shields.io/badge/-Windows-0078d6?logo=Windows&logoColor=white" alt="Windows">
-</p>
-<div align="right">
+</div>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hayamido&show_icons=true&hide_border=true" alt="hayamido's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamido&theme=buefy&layout=compact&hide_border=true" alt="hayamido's top langs">
 </div>
