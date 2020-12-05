@@ -49,8 +49,8 @@
 </p>
 <h3 align="left">GitHub Stats & Activities</h3>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hayamido&show_icons=true&hide_border=true" alt="hayamido's GitHub Stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamido&theme=buefy&layout=compact&hide_border=true" alt="hayamido's top langs">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamido&theme=buefy&layout=compact&hide_border=true" alt="hayamido's top langs">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hayamido&show_icons=true&hide_border=true" alt="hayamido's GitHub Stats">
 </div>
 <!--
 **hayamido/hayamido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
