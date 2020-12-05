@@ -19,10 +19,13 @@
   </ul>
 </p>
 <h3 align="left">GitHub Stats & Activities</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamido&theme=buefy&layout=compact" alt="hayamido's top langs">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hayamido&show_icons=true&hide_border=true" alt="hayamido's GitHub Stats">
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamido&theme=buefy&layout=compact" alt="hayamido's top langs">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hayamido&show_icons=true&hide_border=true" alt="hayamido's GitHub Stats">
+</div>
 <br>
-<p align="center">
+<h3 align="left">Preferences</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/-PHP-8892bf?logo=php&logoColor=white" alt="PHP"> 
   <img src="https://img.shields.io/badge/-Java-e11e21?logo=java&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/-Python-000000?logo=python" alt="Python"> 
