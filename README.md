@@ -48,8 +48,8 @@
   <img src="https://img.shields.io/badge/-Windows-0078d6?logo=Windows&logoColor=white" alt="Windows">
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayamido&show_icons=true&hide_border=true" alt="hayamido's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamido&theme=buefy&layout=compact&hide_border=true" alt="hayamido's top langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1nra-dx&show_icons=true&hide_border=true" alt="hayamido's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1nra-dx&theme=buefy&layout=compact&hide_border=true" alt="hayamido's top langs">
 </div>
 <!--
 **hayamido/hayamido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
