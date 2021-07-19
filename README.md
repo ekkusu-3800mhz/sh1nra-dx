@@ -2,8 +2,8 @@
 <p align="center">
   <!--<a href="https://hayamido.moe" target="_blank">Blog</a> ·-->
   <a href="https://t.me/sh1nra_midx" target="_blank">Telegram</a> ·
-  <a href="https://www.facebook.com/sh1nra.midx" target="_blank">Facebook</a> ·
-  <a href="https://twitter.com/SH1NRA_MIDX" target="_blank">Twitter</a>
+  <a href="https://www.facebook.com/5h1nr4.crh380a" target="_blank">Facebook</a> ·
+  <a href="https://twitter.com/5H1NR4_CRH380A" target="_blank">Twitter</a>
 </p>
 <h3 align="left">About Me</h3>
 <p align="left">
