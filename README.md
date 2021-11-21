@@ -7,11 +7,11 @@
 <!--<h3 align="left">About Me</h3>-->
 <p align="left">
   <ul>
-    <li>🌱 A student from South China Agricultrual University College of Horticulture.</li>
-    <li>🖥 A member of SCAU Hometown Workshop, backend-preference coder, coding with power of interest.</li>
-    <li>🚅 A high-speed railway & metro rapid transit lover.</li>
-    <li>📸 An amateurish photographer & vlogger. Member of U.T.P.</li>
-    <li>🕹 A music game player, mainly playing maimai DX (7300+ Music Rating), planning to cross over China.</li>
+    <li>🌱 Student from South China Agricultrual University College of Horticulture.</li>
+    <li>🖥 Member of SCAU Hometown Workshop, backend-preference coder, coding with power of interest.</li>
+    <li>🚅 High-speed railway & metro rapid transit lover.</li>
+    <li>📸 Amateurish photographer & vlogger. Member of U.T.P.</li>
+    <li>🕹 Music game player, mainly playing maimai DX (7300+ Music Rating), planning to cross over China.</li>
   </ul>
 </p>
 <!--<h3 align="left">Preferences, GitHub Stats & Activities</h3>
