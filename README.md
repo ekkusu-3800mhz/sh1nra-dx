@@ -11,7 +11,7 @@
     <li>🖥 Member of SCAU Hometown Workshop, backend-preference coder, coding with power of interest.</li>
     <li>🚅 High-speed railway & metro rapid transit lover.</li>
     <li>📸 Amateurish photographer & vlogger. Member of U.T.P.</li>
-    <li>🕹 Music game player, mainly playing maimai DX (7300+ Music Rating), planning to cross over China.</li>
+    <li>🕹 Music game player, mainly playing maimai DX (7400+ Music Rating), planning to cross over China.</li>
   </ul>
 </p>
 <!--<h3 align="left">Preferences, GitHub Stats & Activities</h3>
