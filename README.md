@@ -10,7 +10,7 @@
     <li>🌱 Student from South China Agricultrual University College of Horticulture.</li>
     <li>🖥 Member of SCAU Hometown Workshop, backend-preference coder, coding with power of interest.</li>
     <li>🚅 High-speed railway & metro rapid transit lover.</li>
-    <li>📸 Amateurish photographer & vlogger. Member of Union of Transportation Photographers (U.T.P)</li>
+    <li>📸 Amateurish photographer & vlogger. Member of Union of Transportation Photographers (U.T.P).</li>
     <li>🕹 Music game player, mainly playing maimai DX (7400+ Music Rating), planning to cross over China.</li>
   </ul>
 </p>
