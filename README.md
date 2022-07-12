@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there! I'm Shinra DX.</h2>
+<h2 align="center">👋 Hi there! I'm Shinra DX (3.80GHz).</h2>
 <p align="center">
   <a href="https://t.me/5H1NR4_CRH380A" target="_blank">Telegram</a> ·
   <a href="https://www.facebook.com/5h1nr4.crh380a" target="_blank">Facebook</a> ·
