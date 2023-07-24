@@ -1,13 +1,8 @@
-<h2 align="center">👋 Hi there! I'm Shinra DX (3.80GHz).</h2>
-<p align="center">
-  <a href="https://t.me/5H1NR4_CRH380A" target="_blank">Telegram</a> ·
-  <a href="https://www.facebook.com/5h1nr4.crh380a" target="_blank">Facebook</a> ·
-  <a href="https://twitter.com/5H1NR4_CRH380A" target="_blank">Twitter</a>
-</p>
+<h2 align="center">👋 Hi there! I'm 3.80GHz.</h2>
 <!--<h3 align="left">About Me</h3>-->
 <p align="left">
   <ul>
-    <li>🌱 Student from South China Agricultrual University College of Horticulture.</li>
+    <li>🌱 Graduated from South China Agricultrual University College of Horticulture.</li>
     <li>🖥 Member of SCAU Hometown Workshop, backend-preference coder, coding with power of interest.</li>
     <li>🚅 High-speed railway & metro rapid transit lover.</li>
     <li>📸 Amateurish photographer & vlogger. Member of Union of Transportation Photographers (U.T.P).</li>
